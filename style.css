@@ -31,6 +31,10 @@ header{
     color: rgb(118, 118, 236);
 }
 
+.logo:hover {
+    transform: scale(1.2);
+}
+
 /* Part 1 */
 .part-1 {
     background-color: #1f2937;
@@ -80,6 +84,7 @@ header{
 
 .first-button:hover {
     background-color: rgb(98, 113, 196);
+    transform: scale(1.2);
 }
 
 /* Part 2 */
@@ -183,6 +188,7 @@ img {
 
 .button-final:hover {
     background-color: #567fc1;
+    transform: scale(1.2);
 }
 
 .button-final:active {
